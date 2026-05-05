@@ -1,0 +1,16 @@
+age,fever,gender,cough,city,has_covid
+25,1,Male,Yes,Kathmandu,Positive
+40,0,Female,No,Lalitpur,Negative
+30,1,Male,Yes,Bhaktapur,Positive
+22,0,Female,No,Pokhara,Negative
+35,1,Male,Yes,Kathmandu,Positive
+28,0,Female,Yes,Lalitpur,Negative
+50,1,Male,No,Biratnagar,Positive
+19,0,Female,No,Dharan,Negative
+45,1,Male,Yes,Pokhara,Positive
+33,0,Female,No,Kathmandu,Negative
+27,1,Male,Yes,Bhaktapur,Positive
+38,0,Female,No,Lalitpur,Negative
+29,1,Male,Yes,Dharan,Positive
+41,0,Female,No,Biratnagar,Negative
+36,1,Male,Yes,Kathmandu,Positive
